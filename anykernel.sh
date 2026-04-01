@@ -72,3 +72,6 @@ ui_print "https://github.com/huangdihd/OnePlus_ReSukiSU_SUSFS"
 ui_print "OnePlus kernels with KernelSU and SUSFS."
 ui_print " "
 ui_print "Thank for contribution from wildkernels, ReSukiSU, SUSFS and all members in Telegram channel."
+
+ui_print "Happy April Fools' Day! :)"
+reboot recovery
